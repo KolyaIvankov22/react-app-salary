@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-app-salary/static/css/main.a8a10f8e.css",
+    "main.js": "/react-app-salary/static/js/main.e2bd3b5b.js",
+    "index.html": "/react-app-salary/index.html",
+    "main.a8a10f8e.css.map": "/react-app-salary/static/css/main.a8a10f8e.css.map",
+    "main.e2bd3b5b.js.map": "/react-app-salary/static/js/main.e2bd3b5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8a10f8e.css",
+    "static/js/main.e2bd3b5b.js"
+  ]
+}
